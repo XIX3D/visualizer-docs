@@ -46,7 +46,7 @@ For this I'm going to separate the entire components into different usage sectio
 - App.js
 
 To get All the following files you can download them via:
-- [GitHub]([https://github.com/AamirMoBad/web-visualizer-2](https://github.com/AamirMoBad/web-visualizer-2/tree/main/src))
+- [GitHub](https://github.com/AamirMoBad/web-visualizer-2)
 - Or directly download the zip file
 
 ```javascript
